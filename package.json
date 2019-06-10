@@ -10,7 +10,7 @@
   "dependencies": {
     "binary-search": "^1.3.2",
     "tera-network-crypto": "github:tera-toolbox/tera-network-crypto",
-    "tera-data-parser": "github:tera-toolbox/tera-data-parser-js"
+    "tera-data-parser": "github:titandino/tera-data-parser"
   },
   "description": "Network proxy with modular event handling for TERA.",
   "engines": {
